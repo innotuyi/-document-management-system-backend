@@ -5,7 +5,7 @@
 
 ### Clone the project
 ```
-git clone 
+git clone https://github.com/innotuyi/-document-management-system-backend.git
 ```
 ### Enter in directory where it saved
 ```
