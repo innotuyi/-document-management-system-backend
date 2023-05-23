@@ -42,14 +42,6 @@ DB_PASSWORD=your_password
 php artisan migrate
 
 ```
-
-### sample credential to login / allowed role customer/admin
-```
-php register:user {role} {name} {email} {password}'
-
-php artisan register:user customer test test@gmail.com test
-
-```
 ### start server
 
 ```
